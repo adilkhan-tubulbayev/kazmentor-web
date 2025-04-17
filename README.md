@@ -1,12 +1,10 @@
-# React + Vite
-
 
 ---
 
 ### `kazmentor-web/README.md`
 
 ```markdown
-# KazMentor Web Client
+# KazMentor Web Client (React + Vite)
 
 React SPA for the AI‑powered KazMentor learning platform.
 
