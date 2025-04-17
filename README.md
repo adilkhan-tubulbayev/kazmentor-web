@@ -4,9 +4,11 @@
 ### `kazmentor-web/README.md`
 
 ```markdown
-# KazMentor Web Client (React + Vite)
+# KazMentor Web Client
 
 React SPA for the AI‑powered KazMentor learning platform.
+
+**🔗 Live demo:** https://beta.kazmentor.kz/
 
 ## Features
 - Email/password & OAuth via Clerk  
@@ -14,7 +16,7 @@ React SPA for the AI‑powered KazMentor learning platform.
 - Embedded Unity WebGL mini‑games
 
 ## Tech
-- React, Vite, Tailwind CSS, Clerk, Radix UI
+- React, Vite, Tailwind CSS, Clerk, Radix UI, Unity WebGL
 
 ## Quick Start
 ```bash
